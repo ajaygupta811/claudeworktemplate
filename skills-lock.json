@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "platform-soql-query": {
+      "source": "forcedotcom/sf-skills",
+      "sourceType": "github",
+      "skillPath": "skills/platform-soql-query/SKILL.md",
+      "computedHash": "62dad80bdf56b25865e4b50b15f79dd356327c395063410e018e6401f3670e53"
+    }
+  }
+}
